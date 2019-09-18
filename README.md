@@ -1,7 +1,8 @@
 # NUK-course-to-iCalendar-converter
 
 ## Feature
-輸出檔案可直接匯入Google日曆
+輸出檔案可直接匯入Google日曆  
+  
 ![](https://github.com/kaibaooo/NUK-course-to-iCalendar-converter/blob/master/img/sample.png?raw=true)
 
 ## Usage
