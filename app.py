@@ -30,9 +30,9 @@ data = req2.text
 # with open("index.html", mode="w") as f:
 #     f.write(req2.text)
 
-firstWeekMonDate = input("第一周的星期一之日期(20190909):")
+firstWeekMonDate = input("第一周的星期一之日期(預設為20190909):")
 if firstWeekMonDate == "" : firstWeekMonDate = "20190909"
-endWeekFriDate = input("最後一周的星期五之日期(20190930):")
+endWeekFriDate = input("最後一周的星期五之日期(預設為20200110):")
 if endWeekFriDate == "" : endWeekFriDate = "20200110"
 print("Parsing data....")
 
