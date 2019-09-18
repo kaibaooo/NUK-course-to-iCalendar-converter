@@ -15,6 +15,6 @@ python3 app.py <aca-sys-username> <aca-sys-passwd>
 ## Requirements
 * bs4==0.0.1
 
-## Known bugs
+## Known issues
 * 第X,Y節課程無法正常顯示
 * 同一時間多門課無法正常顯示
